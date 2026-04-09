@@ -1,0 +1,144 @@
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\cashier_dashboard.exe.config
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\cashier_dashboard.exe
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\cashier_dashboard.pdb
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.AssemblyReference.cache
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.Properties.Resources.resources
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.GenerateResource.cache
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.CoreCompileInputs.cache
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.exe
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.pdb
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.Form1.resources
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.dll
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.Parser.dll
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.dll
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ExcelNumberFormat.dll
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\RBush.dll
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\SixLabors.Fonts.dll
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Buffers.dll
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Memory.dll
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Numerics.Vectors.dll
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.pdb
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.xml
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.Parser.xml
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.xml
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ExcelNumberFormat.xml
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\RBush.xml
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\SixLabors.Fonts.xml
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Buffers.xml
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Memory.xml
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Numerics.Vectors.xml
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.CopyComplete
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\cashier_dashboard.exe.config
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\cashier_dashboard.exe
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\cashier_dashboard.pdb
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.dll
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.Parser.dll
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.dll
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ExcelNumberFormat.dll
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\RBush.dll
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\SixLabors.Fonts.dll
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Buffers.dll
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Memory.dll
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Numerics.Vectors.dll
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.pdb
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.xml
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.Parser.xml
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.xml
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ExcelNumberFormat.xml
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\RBush.xml
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\SixLabors.Fonts.xml
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Buffers.xml
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Memory.xml
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Numerics.Vectors.xml
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.AssemblyReference.cache
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.Form1.resources
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.Properties.Resources.resources
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.GenerateResource.cache
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.CoreCompileInputs.cache
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.CopyComplete
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.exe
+D:\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.pdb
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\cashier_dashboard.exe.config
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\cashier_dashboard.exe
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\cashier_dashboard.pdb
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.dll
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.Parser.dll
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.dll
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ExcelNumberFormat.dll
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\RBush.dll
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\SixLabors.Fonts.dll
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Buffers.dll
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Memory.dll
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Numerics.Vectors.dll
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.pdb
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.xml
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.Parser.xml
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.xml
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ExcelNumberFormat.xml
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\RBush.xml
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\SixLabors.Fonts.xml
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Buffers.xml
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Memory.xml
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Numerics.Vectors.xml
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.AssemblyReference.cache
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.Form1.resources
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.Properties.Resources.resources
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.GenerateResource.cache
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.CoreCompileInputs.cache
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.CopyComplete
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.exe
+D:\cashier_dashboard (5)\cashier_dashboard (4)\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.pdb
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\cashier_dashboard.exe.config
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\cashier_dashboard.exe
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\cashier_dashboard.pdb
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.Parser.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\RBush.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\SixLabors.Fonts.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.pdb
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ClosedXML.Parser.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\RBush.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\SixLabors.Fonts.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.Form1.resources
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.Properties.Resources.resources
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.csproj.CopyComplete
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.exe
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\cashier_dashboard\cashier_dashboard\cashier_dashboard\obj\Debug\cashier_dashboard.pdb

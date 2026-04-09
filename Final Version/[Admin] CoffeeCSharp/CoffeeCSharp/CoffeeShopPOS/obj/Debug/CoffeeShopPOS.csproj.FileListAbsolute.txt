@@ -1,0 +1,198 @@
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeShopPOS.csproj.AssemblyReference.cache
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeShopPOS.AdminDashboardForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeShopPOS.CustomerAddEditForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeAppPOS.CustomerForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeAppPOS.InventoryAddEditForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeAppPOS.DashboardForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.MembershipForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeShopPOS.ProductEditForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeAppPOS.ProductForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeShopPOS.ProductListingForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeShopPOS.ProductManagementForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.Properties.Resources.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeAppPOS.ReportingForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeAppPOS.SettingsForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeShopPOS.SignupForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeAppPOS.StaffForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeShopPOS.StaffManagementForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.Testing.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeShopPOS.csproj.GenerateResource.cache
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeShopPOS.csproj.CoreCompileInputs.cache
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.exe
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.pdb
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.AssemblyReference.cache
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.AdminDashboardForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.CustomerAddEditForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeAppPOS.CustomerForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeAppPOS.InventoryAddEditForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeAppPOS.DashboardForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeeAppPOS.MembershipForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.ProductEditForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeAppPOS.ProductForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.ProductListingForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.ProductManagementForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeeAppPOS.Properties.Resources.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeAppPOS.ReportingForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeAppPOS.SettingsForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.SignupForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeAppPOS.StaffForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.StaffManagementForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeeAppPOS.Testing.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.GenerateResource.cache
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.CoreCompileInputs.cache
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeeAppPOS.exe
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeeAppPOS.pdb
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Properties.Resources.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeeAppPOS.AdminDashboardForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.CustomerForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Testing.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopOS.ProductForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.SigninForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.ProductForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\[Pisey] POS Dashboard_Admin\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.StaffForm.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.AdminDashboardForm.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.CustomerAddEditForm.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.InventoryAddEditForm.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.ProductForm.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Properties.Resources.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Report.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Settings.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.SigninForm.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.SignupForm.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.StaffForm.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Testing.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Customer.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.MembershipForm.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\CoffeeShopPOS.exe.config
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\CoffeeShopPOS.exe
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\CoffeeShopPOS.pdb
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.exe
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.pdb
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.InventoryForm.resources
+C:\Users\MSI\Desktop\CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Form1.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\bin\Debug\CoffeeShopPOS.exe.config
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\bin\Debug\CoffeeShopPOS.exe
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\bin\Debug\CoffeeShopPOS.pdb
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.AssemblyReference.cache
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.AdminDashboardForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Customer.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.InventoryForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.MembershipForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.ProductForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Properties.Resources.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Report.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Settings.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.SigninForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.SignupForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.StaffForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.GenerateResource.cache
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.CoreCompileInputs.cache
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.exe
+D:\4.PUC\4.Database Application Development [Thurs]\5.Exam\Pisey+Vichaka\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.pdb
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\CoffeeShopPOS.exe.config
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\CoffeeShopPOS.exe
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\CoffeeShopPOS.pdb
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.AdminDashboardForm.resources
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Customer.resources
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.InventoryForm.resources
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.MembershipForm.resources
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.ProductForm.resources
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Report.resources
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Settings.resources
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.SigninForm.resources
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.SignupForm.resources
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.StaffForm.resources
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.exe
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.pdb
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\cashier_dashboard.exe
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\POS-CoffeShop.exe
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\ClosedXML.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\SixLabors.Fonts.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\ClosedXML.Parser.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\RBush.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\POS-CoffeShop.pdb
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\POS-CoffeShop.exe.config
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\cashier_dashboard.pdb
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\cashier_dashboard.exe.config
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\ClosedXML.pdb
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\ClosedXML.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\SixLabors.Fonts.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\ClosedXML.Parser.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\RBush.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.exe.config
+C:\Users\ASUS\Desktop\3.Final Version-Pisey\3.Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\CoffeeShopPOS.exe.config
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\CoffeeShopPOS.exe
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\CoffeeShopPOS.pdb
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\cashier_dashboard.exe
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\POS-CoffeShop.exe
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\ClosedXML.dll
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\SixLabors.Fonts.dll
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\ClosedXML.Parser.dll
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\RBush.dll
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\cashier_dashboard.pdb
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\cashier_dashboard.exe.config
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\POS-CoffeShop.pdb
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\POS-CoffeShop.exe.config
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\ClosedXML.pdb
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\ClosedXML.xml
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\SixLabors.Fonts.xml
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\ClosedXML.Parser.xml
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\RBush.xml
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.exe.config
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.AdminDashboardForm.resources
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Customer.resources
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.InventoryForm.resources
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.MembershipForm.resources
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.ProductForm.resources
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Report.resources
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.Settings.resources
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.SigninForm.resources
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.SignupForm.resources
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.StaffForm.resources
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.exe
+C:\Users\ASUS\Desktop\Final Version\[Admin] CoffeeCSharp\CoffeeCSharp\CoffeeShopPOS\obj\Debug\CoffeeShopPOS.pdb

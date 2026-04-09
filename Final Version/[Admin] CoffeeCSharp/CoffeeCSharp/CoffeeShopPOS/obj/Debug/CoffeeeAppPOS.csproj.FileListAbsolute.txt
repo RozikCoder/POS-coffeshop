@@ -1,0 +1,24 @@
+C:\Users\MSI\source\repos\CoffeeeAppPOS\bin\Debug\CoffeeeAppPOS.exe.config
+C:\Users\MSI\source\repos\CoffeeeAppPOS\bin\Debug\CoffeeeAppPOS.exe
+C:\Users\MSI\source\repos\CoffeeeAppPOS\bin\Debug\CoffeeeAppPOS.pdb
+C:\Users\MSI\source\repos\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.Properties.Resources.resources
+C:\Users\MSI\source\repos\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.exe
+C:\Users\MSI\source\repos\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.pdb
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\bin\Debug\CoffeeeAppPOS.exe.config
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\bin\Debug\CoffeeeAppPOS.exe
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\bin\Debug\CoffeeeAppPOS.pdb
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.csproj.AssemblyReference.cache
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.Properties.Resources.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.csproj.GenerateResource.cache
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.csproj.CoreCompileInputs.cache
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.exe
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.pdb
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeShopPOS.DashboardForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.DashboardForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeAppPOS.DashboardForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeeAppPOS.AdminDashboardForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeShopPOS_Admin.LoginForm.resources
+D:\4.PUC\4.Database Application Development [Thurs]\5. Exam\[Pisey] POS Dashboard_Admin\CoffeeeAppPOS\obj\Debug\CoffeeShopPOS_Admin.SignupForm.resources
